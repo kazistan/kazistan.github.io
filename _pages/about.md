@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**JOSHUA KAZDIN**, CFA, is the Head of Sustainable Alpha Research, Co-Head of Geospatial Research, and Co-Head of Private Markets Research for BlackRock Systematic Active Equities (SAE).  
+**JOSHUA KAZDIN**, CFA, Managing Director, leads Private Markets Research,  Geospatial Research, and Sustainable Alpha Research for BlackRock Systematic Active Equities (SAE).  
 
-Mr. Kazdin is responsible for developing SAE’s ESG platform, BlackRock Systematic’s Geospatial Modeling Group, Private Markets Research, and conducting alpha-generating research on stock selection, top-down, and thematic insights across active global long only and long short equity funds.  Mr. Kazdin’s research on sustainability and finance has been published in academic journals, conferences, and media.
+Mr. Kazdin is responsible for developing SAE’s Private Markets Research, BlackRock Systematic’s Geospatial Modeling Group, and conducting alpha-generating research on stock selection, top-down, and thematic insights across active global long only and long short equity funds.  Mr. Kazdin’s research on sustainability and finance has been published in academic journals, conferences, and media.
 
 Prior to joining BlackRock in 2011, Mr. Kazdin was a research analyst at Lazard Asset Management and a researcher at International Strategy & Investment Group.  Mr. Kazdin earned a BS, with distinction, in Economics and Political Science from Duke University in 2008 and a Masters in Finance from Massachusetts Institute of Technology in 2011.  
 
