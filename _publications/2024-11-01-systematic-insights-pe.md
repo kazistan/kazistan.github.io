@@ -3,7 +3,7 @@ title: "Systematic Insights into Private Equity Investing"
 collection: publications
 permalink: /publication/2024-11-01-systematic-insights-pe
 excerpt: 'Systematic approaches have greatly benefitted investors in publicly traded equities since at least the development of the first index fund in 1971. Private equities pose a far greater challenge for systematic investing due to lack of return data and regulatory filings and to significant illiquidity. Today, however, the availability of alternative data covering private companies, as well as the development of advanced forecasting methods, are facilitating systematic approaches to private equity investing. This article will present a systematic framework for private equity investing and extend the fundamental law of active management to show the benefits of breadth available to systematic investors. It will then demonstrate what public equity data can tell us about skill in private markets. Systematic approaches to private equity investment can be expected to continue to evolve and improve over time and to start to gain market share in this asset class of increasing investor interest.'
-date: 2017-08-05
+date: 2024-11-01
 venue: 'Journal Of Portfolio Management, Vol. 51, No. 1, (2024), pp. 201-212.'
 paperurl: 'https://www.pm-research.com/content/iijpormgmt/51/1/201'
 citation: 'Almufti, Ali, Kahn, Ronald N., Kazdin, Joshua (2024). Systematic Insights into Private Equity Investing. Journal Of Portfolio Management, Vol. 51, No. 1, (2024), pp. 201-212'
